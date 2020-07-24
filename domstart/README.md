@@ -14,3 +14,4 @@ To do:
 
 1. Chargez moment.js est son extension locale dans la page.
    Personnalisez la phrase "Les vacances approchent, êtes-vous prêt pour partir ?" en fonction de la date
+2. alyragradients -> les énoncés sont dans script.js
