@@ -7,7 +7,7 @@
 1. Le bouton info affiche le titre (lang) et URL de la page
 1. Le panneau publicitaire disparait en click
 1. Le panneau publicitaire disparait en click sur le bouton
-1. Le bouton 😎regénere le tagline
+1. Le bouton 😎 regénere la tagline
 1. Et si on voulait désactiver tous les boutons ?
 
 To do:
