@@ -11,10 +11,10 @@
 1. Le panneau publicitaire disparait en click sur le bouton
 1. Le bouton 😎 regénere la tagline
 1. Et si on voulait désactiver tous les boutons ?
+1. Attachez à la fin du doc un paragraphe avec la classe text-center et le contenu -> "Ce site n'utilise pas des cookies"
 
 ## todos :)
 
 1. Chargez moment.js est son extension locale dans la page.
    Personnalisez la phrase "Les vacances approchent, êtes-vous prêt pour partir ?" en fonction de la date
 2. alyragradients -> les énoncés sont dans script.js
-
